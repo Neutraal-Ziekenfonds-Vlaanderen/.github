@@ -35,8 +35,6 @@ Het beheren van je repositories en branches kan tegenwoordig ook rechtstreeks in
 
 De Gitlens extensie heeft de meerwaarde dat deze ook de 'blame' functie heeft, dit maakt het mogelijk per regel te tonen wat de laatste commit was en door wie.
 
-![Gitlens blame function](https://github.com/Neutraal-Ziekenfonds-Vlaanderen/first-repo/assets/113903077/3af35dd6-27fe-40d3-8fa0-5ea704b17e71)
-
 ![Shame!](https://media0.giphy.com/media/vX9WcCiWwUF7G/giphy.gif?cid=6c09b9525ix3e7xyr3o8nfsi4olz1b32nn84iaomnu220yjz&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## CIT COMMANDS
@@ -59,7 +57,7 @@ git push --set-upstream origin main
 
 `git push` Als laatste kan je de lokale commit tree pushen naar de remote repo. Hierdoor wordt er dus remote ook een nieuwe versie gemaakt.
 
-![Meme merge conflicts](https://github.com/Neutraal-Ziekenfonds-Vlaanderen/first-repo/assets/113903077/948d75a1-90e0-437d-84f0-5c0bfcf67a2f)
+![Meme merge conflicts](https://i.imgflip.com/8qvw4z.jpg)
 
 Wanneer je start in een lokale repo die niet up-to-date is met de (reeds bestaande) remote repo en je hierin commits wil pushen, ga je te maken krijgen met merge conflicts. Dit gebeurd wanneer je een bestand gewijzigd hebt in jouw commit, welke ook in een pull commit zit. Vooraleer je een werkt aan een bepaalde repo is het dus belangrijk steeds het pull command eerst te gebruiken om ervoor te zorgen dat je lokale repo up-to-date is!
 
