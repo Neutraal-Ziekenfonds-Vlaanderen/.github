@@ -2,8 +2,8 @@
 
 ># TO GIT OR NOT TO GIT
 Om je code veilig te gaan bewaren of om het samenwerken aan projecten eenvoudiger te laten verlopen, kan je gebruik gaan maken van Git. Git maakt gebruik van remote repositories (kortweg: repo's) om nieuwe projecten op te starten of om bestaande/lokale bestanden of code te koppelen aan deze remote repo's. Er zijn een enkele opties om je repo's te beheren, dit kan via volgende tools:
-- [De Github Desktop applicatie](#code-editor-visualstudio-code)
-- [Code editor (VisualStudio Code)](#code-editor-visualstudio-code)
+- [Github Desktop applicatie](#code-editor-visualstudio-code)
+- [Code editor (Visual Studio Code)](#code-editor-visualstudio-code)
 - [Git commands (CLI)](#git-commands-cli)
 
 ## GIT READY
@@ -30,10 +30,10 @@ De applicatie zorgt voor een gebruiksvriendelijke interface om een duidelijk ove
 ![Github desktop screenshot](https://github.com/Neutraal-Ziekenfonds-Vlaanderen/.github/assets/113903077/9b5150ba-4b10-4471-9609-93243e4c43cd)
 
 
-## VISUALSTUDIO CODE
-Het beheren van je repositories en branches kan tegenwoordig ook rechtstreeks in je code editor! Dit met behulp van de ingebouwde Source Control tool of met enkele extensies zoals Gitlens.
+## VISUAL STUDIO CODE
+Het beheren van je repositories en branches kan tegenwoordig ook rechtstreeks in je code editor! Dit met behulp van de ingebouwde Source Control tool of met enkele extensies zoals Gitlens in [Visual Studio Code](https://code.visualstudio.com//).
 
-De Gitlens extensie heeft de meerwaarde dat deze ook de 'blame' functie heeft, dit maakt het mogelijk per regel te tonen wat de laatste commit was en door wie.
+De Gitlens extensie heeft de meerwaarde dat deze ook de 'blame' functie heeft, dit maakt het mogelijk per regel snel te tonen wie deze regel heeft aangepast en in welke commit deze aanpassing zit.
 
 ![Shame!](https://media0.giphy.com/media/vX9WcCiWwUF7G/giphy.gif?cid=6c09b9525ix3e7xyr3o8nfsi4olz1b32nn84iaomnu220yjz&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
