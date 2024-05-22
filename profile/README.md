@@ -40,9 +40,7 @@ De Gitlens extensie heeft de meerwaarde dat deze ook de 'blame' functie heeft, d
 ![Shame!](https://media0.giphy.com/media/vX9WcCiWwUF7G/giphy.gif?cid=6c09b9525ix3e7xyr3o8nfsi4olz1b32nn84iaomnu220yjz&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## CIT COMMANDS
-Indien je makkelijker je weg vindt in de terminal, kan je jouw git goodies ook beheren via deze weg. Je kan ook een Git Shell openen via de desktop applicatie maar omdat deze gebruik maakt van een 32 bit versie in plaats van 64 bit, geeft dit problemen bij enkele PowerShell modules. Hieronder staat beschreven hoe je een PowerShell ISE sessie kan starten zonder problemen!
-
-[Github setup for PowerShell](https://mikefrobbins.com/2016/02/09/configuring-the-powershell-ise-for-use-with-git-and-github/#documentTop)
+Indien je makkelijker je weg vindt in de terminal, kan je jouw git goodies ook beheren via deze weg. Je kan ook een Git Shell openen via de desktop applicatie maar omdat deze gebruik maakt van een 32 bit versie in plaats van 64 bit, geeft dit problemen bij enkele PowerShell modules. In het volgende artikel staat beschreven hoe je Git kan gebruiken in PowerShell ISE, [Github setup for PowerShell ISE](https://mikefrobbins.com/2016/02/09/configuring-the-powershell-ise-for-use-with-git-and-github/#documentTop)
 
 Via deze weg kan je adhv enkele commands snel door je repo's gaan, commits pullen, nieuwe branches maken, etc. Hieronder even de basis Git commands kort uitgelegd om aan de slag te kunnen gaan.
 
